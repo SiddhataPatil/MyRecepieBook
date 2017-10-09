@@ -11,8 +11,10 @@ You can star your favorite recepies and also share it with your loved ones.
 
 3. It will note your daily water content by clicking a button whenever you have a glass of water(trying to find a different way of doing this)
 
-4. It will automatically parse the ingredients from your starred recepies and will make a grocery list for you (Its Weekly; so there is maximum limit to star recepies per week)
+4. It will automatically parse the ingredients from your starred recepies and will make a grocery list for you (Its Weekly; so there is maximum limit to star recepies per week) 
+It will also open maps and show you grocery stores near you.
 
+Incorporates at least 2 mobile-oriented features - Audio and Maps
 
 Submitted by: **Siddhata Patil**, **Jacob Rushing** and **Himavarshini Mittapally**
 
