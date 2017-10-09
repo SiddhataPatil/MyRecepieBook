@@ -12,22 +12,47 @@ The following **required** functionality is completed:
 
 The following user stories must be completed:
 
-* [x] Includes all required user stories from Week 3 Twitter Client
-* [x] User can switch between Timeline and Mention views using tabs. (3 points)
-* [x] User can view their home timeline tweets.
-* [x] User can view the recent mentions of their username.
-* [x] User can navigate to view their own profile (2 points)
-* [x] User can see picture, tagline, # of followers, # of following, and tweets on their profile.
-* [x] The users/verify_credentials endpoint can be used to access this information.
-* [x] User can click on the profile image in any tweet to see another user's profile. (3 points)
-* [x] User can see a picture, tagline, # of followers, # of following of the selected user.
-* [x] Profile should include the selected user's timeline of tweets
-* [x] User can infinitely paginate any of these timelines (home, mentions, user) by scrolling to the bottom (2 points)
+* [ ] 
+* [ ] 
+* [ ] 
+* [ ] 
+* [ ] 
+* [ ] 
+
+The following additional stories must also be completed:
+
+* [ ] 
+* [ ] 
+* [ ] 
+* [ ] 
+* [ ] 
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+* [x] Sign In Logo Activity
 <img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/1.png' width="365" height="750" />
-
+* [x] Sign In or Sign up Activity
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/2.png' width="365" height="750" />
+* [x] Home Activity
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+* [x] When clicked on "Note your Meals"
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.1a.png' width="365" height="750" />
+* [x] When you speak your meals; it calculates your macros and calories intake for that day
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.1b.png' width="365" height="750" />
+* [x] When clicked Home button
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+* [x] When clicked on "Recepies"
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.2a.png' width="365" height="750" />
+* [x] When clicked on a Recepie picture
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.2b.png' width="365" height="750" />
+* [x] When clicked Home button
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+* [x] When clicked on "Note Water Intake"
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.3.png' width="365" height="750" />
+* [x] When clicked Home button
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+* [x] When clicked on "Shopping List"
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.4png' width="365" height="750" />
