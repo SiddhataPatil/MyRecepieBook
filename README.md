@@ -1,5 +1,10 @@
 # Bon Appetit
 
+Submitted by: **Siddhata Patil**, **Jacob Rushing** and **Himavarshini Mittapally**
+
+Time spent: **5** hours spent in total.
+
+
 Bon Appetit is a Food and Nutrition App.
 
 1. It notes down your daily meals and calculates different macros (Carbs, Protein, Fat, etc.) for you along with total calories intake.
@@ -15,10 +20,6 @@ You can star your favorite recepies and also share it with your loved ones.
 It will also open maps and show you grocery stores near you.
 
 Incorporates at least 2 mobile-oriented features - Audio and Maps
-
-Submitted by: **Siddhata Patil**, **Jacob Rushing** and **Himavarshini Mittapally**
-
-Time spent: **5** hours spent in total.
 
 ## User Stories
 
