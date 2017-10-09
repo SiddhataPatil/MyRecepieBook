@@ -66,4 +66,4 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
 
 * [x] When clicked on "Shopping List"
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.4png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.4.png' width="365" height="750" />
