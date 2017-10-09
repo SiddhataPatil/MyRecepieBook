@@ -12,20 +12,23 @@ The following **required** functionality is completed:
 
 The following user stories must be completed:
 
-* [  ] 
-* [  ] 
-* [  ] 
-* [  ] 
-* [  ] 
-* [  ] 
+* [ ] Sign In Logo Activity (email and password)
+* [ ] Sign Up activity (Full name, email and Password)
+* [ ] Home Activity with clickable contents
+* [ ] Users must be able to speak their daily meals using in built microphone.
+* [ ] Calculate differnt macros and calories for that day using the audio input
+* [ ] Clickable recepie pictures 
+* [ ] Detailed recepie in next activity
+* [ ] Able to go back on Home Activity at any time
+* [ ] Able to note the water content by clicking "1 glass of Water" button
+* [ ] Create a weekly grocery List
 
 The following additional stories must also be completed:
 
-* [  ] 
-* [  ] 
-* [  ] 
-* [  ] 
-* [  ] 
+* [ ] User should be able to share the recepie with the message icon
+* [ ] Show graphical representation of water intake
+* [ ] Able to parse different recepie ingredients automatically to create week's grocery list
+* [ ] Differentiate recepies into breakfast, lunch, snack and dinner
 
 
 ## Video Walkthrough 
