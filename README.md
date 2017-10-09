@@ -1,6 +1,18 @@
-# MyRecipieBook
+# Bon Appetit
 
-End to end flow of our application:
+Bon Appetit is a Food and Nutrition App.
+
+1. It notes down your daily meals and calculates different macros (Carbs, Protein, Fat, etc.) for you along with total calories intake.
+(Speaking the meals is much convinient way to make notes instead of writing down meals)
+Because of this feature; we beleive it will be a habit forming App.
+
+2. It will provide you with practical recepies (quick, easy and healthy) which will help you stay in your daily calorie limit.
+You can star your favorite recepies and also share it with your loved ones.
+
+3. It will note your daily water content by clicking a button whenever you have a glass of water(trying to find a different way of doing this)
+
+4. It will automatically parse the ingredients from your starred recepies and will make a grocery list for you (Its Weekly; so there is maximum limit to star recepies per week)
+
 
 Submitted by: **Siddhata Patil**, **Jacob Rushing** and **Himavarshini Mittapally**
 
@@ -15,6 +27,7 @@ The following user stories must be completed:
 * [ ] Sign In Logo Activity (email and password)
 * [ ] Sign Up activity (Full name, email and Password)
 * [ ] Home Activity with clickable contents
+* [ ] Ask users about weight and height to calculate their daily maximum calories
 * [ ] Users must be able to speak their daily meals using in built microphone.
 * [ ] Calculate differnt macros and calories for that day using the audio input
 * [ ] Clickable recepie pictures 
@@ -31,9 +44,7 @@ The following additional stories must also be completed:
 * [ ] Differentiate recepies into breakfast, lunch, snack and dinner
 
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
+## End to end flow of our application using Proto.io:
 
 * [x] Sign In Logo Activity
 <img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/1.png' width="365" height="750" />
