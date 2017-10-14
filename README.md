@@ -50,34 +50,34 @@ The following additional stories must also be completed:
 <img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/1.png' width="365" height="750" />
 
 * [x] Sign In or Sign up Activity
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/2.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/2.png' width="365" height="750" />
 
 * [x] Home Activity
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.png' width="365" height="750" />
 
 * [x] When clicked on "Note your Meals"
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.1a.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.1a.png' width="365" height="750" />
 
 * [x] When you speak your meals; it calculates your macros and calories intake for that day
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.1b.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.2b.png' width="365" height="750" />
 
 * [x] When clicked Home button
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.png' width="365" height="750" />
 
 * [x] When clicked on "Recepies"
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.2a.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.2a.png' width="365" height="750" />
 
 * [x] When clicked on a Recepie picture
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.2b.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.2b.png' width="365" height="750" />
 
 * [x] When clicked Home button
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.png' width="365" height="750" />
 
 * [x] When clicked on "Note Water Intake"
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.3.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.3.png' width="365" height="750" />
 
 * [x] When clicked Home button
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.png' width="365" height="750" />
 
 * [x] When clicked on "Shopping List"
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/3.4.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/3.4.png' width="365" height="750" />
