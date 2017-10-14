@@ -47,7 +47,7 @@ The following additional stories must also be completed:
 ## End to end flow of our application using Proto.io:
 
 * [x] Sign In Logo Activity
-<img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/1.png' width="365" height="750" />
+<img src='https://github.com/SiddhataPatil/MyRecepieBook/blob/master/app/1.png' width="365" height="750" />
 
 * [x] Sign In or Sign up Activity
 <img src='https://github.com/SiddhataPatil/MyRecipieBook/blob/master/app/2.png' width="365" height="750" />
